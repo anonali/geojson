@@ -12,7 +12,7 @@ dependencies:
   geopoint:
     git:
       url: https://github.com/anonali/geopoint
-      ref: main
+      ref: master
   iso: ^1.0.0
   pedantic: ^1.11.1
 
